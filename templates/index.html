@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <script type="text/javascript" src="assets/site/dcjs-3.0.12/js/d3.js"></script>
-    <script type="text/javascript" src="assets/site/dcjs-3.0.12/js/crossfilter.js"></script>
-    <script type="text/javascript" src="assets/site/dcjs-3.0.12/js/dc.js"></script>
-    <script type="text/javascript" src="assets/site/jquery-3.4.1.js"></script>
+    <script  type="text/javascript" src="{{ url_for('static', filename = 'dummy.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename = 'site/dcjs-3.0.12/js/d3.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename = 'site/dcjs-3.0.12/js/crossfilter.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename = 'site/dcjs-3.0.12/js/dc.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename = 'site/jquery-3.4.1.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename = 'site/bootstrap_4.0/js/bootstrap.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename = 'site/bootstrap_4.0/js/bootstrap.bundle.js') }}"></script>
 
-    
+    <link href="{{ url_for('static', filename = 'site/dcjs-3.0.12/css/dc.css') }}" rel="stylesheet">
+
+    <link href="{{ url_for('static', filename = 'site/bootstrap_4.0/css/bootstrap.min.css') }}" rel="stylesheet">
+
+
   </head>
   <body>
+
+    <div id="application">HELLO WORLD</div>
+    
+    <script  type="text/javascript" src="{{ url_for('static', filename = 'dashboard/js/load_data.js') }}"></script>
+
 
   </body>
 </html>
