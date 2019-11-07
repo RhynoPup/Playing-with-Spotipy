@@ -19,7 +19,7 @@ $(function(){
             return app_data
         }).then(function(app_data){
             setTimeout(function(){
-                app_data("#application",app_data)
+                application("#application",app_data)
             },50);
             return app_data
         })

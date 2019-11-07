@@ -124,12 +124,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#credentials to be removed
-credentials/
-
-#data not needed right now
-# data/
-
 #.vscode settings are not needed
 .vscode/
 
