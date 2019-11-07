@@ -1,0 +1,2146 @@
+[
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/1E9kYqZTrqW0bpSyNTFXCc"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1E9kYqZTrqW0bpSyNTFXCc",
+        "id": "1E9kYqZTrqW0bpSyNTFXCc",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/0edad0f85feba695f5e1072e70b7a6794e560879",
+                "width": 640
+            }
+        ],
+        "name": "songs dana finds",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MyxjYTA1Y2NmYTg5OTgyMmUyNjk4OTVlNDg2NTNkMTlmYjBkY2VmNjE0",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/1E9kYqZTrqW0bpSyNTFXCc/tracks",
+            "total": 2
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1E9kYqZTrqW0bpSyNTFXCc"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0seQQgq42VQzMzrm5cONmX"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0seQQgq42VQzMzrm5cONmX",
+        "id": "0seQQgq42VQzMzrm5cONmX",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27336434b378d756fa41884dc80",
+                "width": 640
+            }
+        ],
+        "name": "songs dana cant remember the name of",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCw3ZjM0Nzg2MGIxNjFjODY3N2YxNGU4ZjBiNWM2NzgzOGJhM2I0ZWZl",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0seQQgq42VQzMzrm5cONmX/tracks",
+            "total": 3
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0seQQgq42VQzMzrm5cONmX"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4dPA8mohAgQacYjUj1SXGY"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4dPA8mohAgQacYjUj1SXGY",
+        "id": "4dPA8mohAgQacYjUj1SXGY",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/205ec78bebfdc739bb3bb91076306e24f03c7d2c641a808c92092fd05c586abf59fd7c4443908bb5ab67616d0000b273b4d817bdf45e96d16a03329fbcf85a08875d1fb9aeac0670308a1b27976a5a97",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/205ec78bebfdc739bb3bb91076306e24f03c7d2c641a808c92092fd05c586abf59fd7c4443908bb5ab67616d0000b273b4d817bdf45e96d16a03329fbcf85a08875d1fb9aeac0670308a1b27976a5a97",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/205ec78bebfdc739bb3bb91076306e24f03c7d2c641a808c92092fd05c586abf59fd7c4443908bb5ab67616d0000b273b4d817bdf45e96d16a03329fbcf85a08875d1fb9aeac0670308a1b27976a5a97",
+                "width": 60
+            }
+        ],
+        "name": "Texas Two Step",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NDEsMzExOGM3YTc3ZDFlZWY2NzI2ZDhjYzY0OGI3MTVmNDM4ZWMyMjY0Nw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4dPA8mohAgQacYjUj1SXGY/tracks",
+            "total": 19
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4dPA8mohAgQacYjUj1SXGY"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/20avmUwRZhJCtpk6Op3lTz"
+        },
+        "href": "https://api.spotify.com/v1/playlists/20avmUwRZhJCtpk6Op3lTz",
+        "id": "20avmUwRZhJCtpk6Op3lTz",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27306ab6d5a1c8e3faf0a87f251ab67616d0000b273271b0734a29d000a9efab139ab67616d0000b273b97165c7fdf228a07a073276ab67616d0000b273cc08f11d337344bb1f183c86",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27306ab6d5a1c8e3faf0a87f251ab67616d0000b273271b0734a29d000a9efab139ab67616d0000b273b97165c7fdf228a07a073276ab67616d0000b273cc08f11d337344bb1f183c86",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27306ab6d5a1c8e3faf0a87f251ab67616d0000b273271b0734a29d000a9efab139ab67616d0000b273b97165c7fdf228a07a073276ab67616d0000b273cc08f11d337344bb1f183c86",
+                "width": 60
+            }
+        ],
+        "name": "Two-Step Class",
+        "owner": {
+            "display_name": "Damon D'Amico",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1294379004"
+            },
+            "href": "https://api.spotify.com/v1/users/1294379004",
+            "id": "1294379004",
+            "type": "user",
+            "uri": "spotify:user:1294379004"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTA2LGM1OTFkMmY4YjA3YzMzYWQ3YzhjMTRkOTY3Y2QwOWM3MTk2NWMwZTc=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/20avmUwRZhJCtpk6Op3lTz/tracks",
+            "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:20avmUwRZhJCtpk6Op3lTz"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6UPd1q0cnH6OxR8TNICEac"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6UPd1q0cnH6OxR8TNICEac",
+        "id": "6UPd1q0cnH6OxR8TNICEac",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2733e85bc9a65de3cd0a42f3d5aab67616d0000b27381aaec9acec9a14fdbcd6498ab67616d0000b273b2c39aafda29345e450abd8eab67616d0000b273ba47411cbf98d64e0cac5fd9",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2733e85bc9a65de3cd0a42f3d5aab67616d0000b27381aaec9acec9a14fdbcd6498ab67616d0000b273b2c39aafda29345e450abd8eab67616d0000b273ba47411cbf98d64e0cac5fd9",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2733e85bc9a65de3cd0a42f3d5aab67616d0000b27381aaec9acec9a14fdbcd6498ab67616d0000b273b2c39aafda29345e450abd8eab67616d0000b273ba47411cbf98d64e0cac5fd9",
+                "width": 60
+            }
+        ],
+        "name": "wcs exemplar",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjYsZDA4MjBmOWIwMDhjOGM0MzU2MGU2MjA3ZDBjMTFhOWU2Yzg0MzZiYw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6UPd1q0cnH6OxR8TNICEac/tracks",
+            "total": 21
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6UPd1q0cnH6OxR8TNICEac"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6ORAhe3HEZaDAKRb1KhYjZ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6ORAhe3HEZaDAKRb1KhYjZ",
+        "id": "6ORAhe3HEZaDAKRb1KhYjZ",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/7b8f628d6723c52e4592657359894f7ec2244744ab67616d0000b273aad535dbbd6ddaab23e78497ab67616d0000b273dac7c4560676efe6ea5e5954ab67616d0000b273f0cc194252888c6658c706ab",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/7b8f628d6723c52e4592657359894f7ec2244744ab67616d0000b273aad535dbbd6ddaab23e78497ab67616d0000b273dac7c4560676efe6ea5e5954ab67616d0000b273f0cc194252888c6658c706ab",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/7b8f628d6723c52e4592657359894f7ec2244744ab67616d0000b273aad535dbbd6ddaab23e78497ab67616d0000b273dac7c4560676efe6ea5e5954ab67616d0000b273f0cc194252888c6658c706ab",
+                "width": 60
+            }
+        ],
+        "name": "Foxtrot Class",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTcsNzRiMDhjZTYxNWZjOTBlYTg0ZTBlNGVhMmQxOTAzOTE5OTZiNjY1OQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6ORAhe3HEZaDAKRb1KhYjZ/tracks",
+            "total": 15
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6ORAhe3HEZaDAKRb1KhYjZ"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4s0l0TBj9J9h0Mbskkkxmd"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4s0l0TBj9J9h0Mbskkkxmd",
+        "id": "4s0l0TBj9J9h0Mbskkkxmd",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/741d70a0d61659825c3709042427404d778bf6fb7455294ed8db0a0e8aca1bd4e0688b35df7d6073ab67616d0000b2731e7b53f5a0c927e25d4cedbdab67616d0000b2734ddd4ae8eb8b7584ad9e92b8",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/741d70a0d61659825c3709042427404d778bf6fb7455294ed8db0a0e8aca1bd4e0688b35df7d6073ab67616d0000b2731e7b53f5a0c927e25d4cedbdab67616d0000b2734ddd4ae8eb8b7584ad9e92b8",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/741d70a0d61659825c3709042427404d778bf6fb7455294ed8db0a0e8aca1bd4e0688b35df7d6073ab67616d0000b2731e7b53f5a0c927e25d4cedbdab67616d0000b2734ddd4ae8eb8b7584ad9e92b8",
+                "width": 60
+            }
+        ],
+        "name": "East Coast Swing",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTMsOTJlYzlmZGViOWMzOGE2ZTM1MGI0YWZlMWQzYWYzZjdlY2Y4MWUxZg==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4s0l0TBj9J9h0Mbskkkxmd/tracks",
+            "total": 11
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4s0l0TBj9J9h0Mbskkkxmd"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3zW2ZKeUhcXxIk5sNRtczz"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3zW2ZKeUhcXxIk5sNRtczz",
+        "id": "3zW2ZKeUhcXxIk5sNRtczz",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273190a3c0eed9e70e539d1674bab67616d0000b27324aeed9793f06a4b4986ef76ab67616d0000b273c10cecf7d1c84c17bc79e4abab67616d0000b273fedb75caa2d5ee8b3339a97d",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273190a3c0eed9e70e539d1674bab67616d0000b27324aeed9793f06a4b4986ef76ab67616d0000b273c10cecf7d1c84c17bc79e4abab67616d0000b273fedb75caa2d5ee8b3339a97d",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273190a3c0eed9e70e539d1674bab67616d0000b27324aeed9793f06a4b4986ef76ab67616d0000b273c10cecf7d1c84c17bc79e4abab67616d0000b273fedb75caa2d5ee8b3339a97d",
+                "width": 60
+            }
+        ],
+        "name": "Swing lesson",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjAsYmEwZmRjYjFjZmU1ZjIwMjgxMzg4ZWJkOTk2ZTdmN2M2YzgxYWY1OA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3zW2ZKeUhcXxIk5sNRtczz/tracks",
+            "total": 17
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3zW2ZKeUhcXxIk5sNRtczz"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4SrdiQAnWxaXqgeqh8Dv7W"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4SrdiQAnWxaXqgeqh8Dv7W",
+        "id": "4SrdiQAnWxaXqgeqh8Dv7W",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/6d580a7ad14888f2638a9112025cbc2f730e4e92ab67616d0000b273190a3c0eed9e70e539d1674bab67616d0000b2737f5f5aa82b8f6c69b51f4fe9ab67616d0000b273f30e83eb4ce0bf50669f3fd3",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/6d580a7ad14888f2638a9112025cbc2f730e4e92ab67616d0000b273190a3c0eed9e70e539d1674bab67616d0000b2737f5f5aa82b8f6c69b51f4fe9ab67616d0000b273f30e83eb4ce0bf50669f3fd3",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/6d580a7ad14888f2638a9112025cbc2f730e4e92ab67616d0000b273190a3c0eed9e70e539d1674bab67616d0000b2737f5f5aa82b8f6c69b51f4fe9ab67616d0000b273f30e83eb4ce0bf50669f3fd3",
+                "width": 60
+            }
+        ],
+        "name": "Swing Class",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NTUsOWUyMDg4MjI5MGEyOGU0MzFhY2FkMGU2MmJiMDVkMzA1YTc3NGY3Mg==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4SrdiQAnWxaXqgeqh8Dv7W/tracks",
+            "total": 45
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4SrdiQAnWxaXqgeqh8Dv7W"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4cSSOWziuSBUw33dy6qbCf"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4cSSOWziuSBUw33dy6qbCf",
+        "id": "4cSSOWziuSBUw33dy6qbCf",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736af7e9e973a2fb8e077dcf8a",
+                "width": 640
+            }
+        ],
+        "name": "My Shazam Tracks",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCxlNGYyZDIxMzhkNTQ2Y2RmNzU1ZTc3MWM2YjA4ODc2NTc0OGJmMmEx",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4cSSOWziuSBUw33dy6qbCf/tracks",
+            "total": 3
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4cSSOWziuSBUw33dy6qbCf"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3NtHU0ubxRDyniAXIUwS1i"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3NtHU0ubxRDyniAXIUwS1i",
+        "id": "3NtHU0ubxRDyniAXIUwS1i",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/52692dcea12239ca4dfdb531cb66e70ddd097498ab67616d0000b27312b939225600b564150c0a68ab67616d0000b2735e10b5af350aa19068e43d2fab67616d0000b273695268e6c6e4d26600cebac5",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/52692dcea12239ca4dfdb531cb66e70ddd097498ab67616d0000b27312b939225600b564150c0a68ab67616d0000b2735e10b5af350aa19068e43d2fab67616d0000b273695268e6c6e4d26600cebac5",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/52692dcea12239ca4dfdb531cb66e70ddd097498ab67616d0000b27312b939225600b564150c0a68ab67616d0000b2735e10b5af350aa19068e43d2fab67616d0000b273695268e6c6e4d26600cebac5",
+                "width": 60
+            }
+        ],
+        "name": "CSD - WCS Social - 190327",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTMyLGNiOTBmY2Q1YjRkMDg3ZWMzY2IwOGRiNGNlMjJmNTk2MGQ1M2VkYjM=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3NtHU0ubxRDyniAXIUwS1i/tracks",
+            "total": 63
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3NtHU0ubxRDyniAXIUwS1i"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3tkhyn8JMNC4bwhxE09Unn"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3tkhyn8JMNC4bwhxE09Unn",
+        "id": "3tkhyn8JMNC4bwhxE09Unn",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/55fadf1722a193e3ccf3396a42522a69b7ee39a2ab67616d0000b273396efbdd79fba40d9092bc0bab67616d0000b27370c061082dc536b68f3141f2ab67616d0000b273f9754fdc567ef1fd3124b327",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/55fadf1722a193e3ccf3396a42522a69b7ee39a2ab67616d0000b273396efbdd79fba40d9092bc0bab67616d0000b27370c061082dc536b68f3141f2ab67616d0000b273f9754fdc567ef1fd3124b327",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/55fadf1722a193e3ccf3396a42522a69b7ee39a2ab67616d0000b273396efbdd79fba40d9092bc0bab67616d0000b27370c061082dc536b68f3141f2ab67616d0000b273f9754fdc567ef1fd3124b327",
+                "width": 60
+            }
+        ],
+        "name": "CSD - WCS Lesson - 190327",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjIsODk0NWUxMmI0NzEwZDE0YTcxNmUyN2ZhOWViNWY4ZjI3YTdlMWU1ZA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3tkhyn8JMNC4bwhxE09Unn/tracks",
+            "total": 19
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3tkhyn8JMNC4bwhxE09Unn"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7f0DYPP8n7nEMLcPUQ9ytX"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7f0DYPP8n7nEMLcPUQ9ytX",
+        "id": "7f0DYPP8n7nEMLcPUQ9ytX",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2732caeb5f60fe6ce8e24ba1f3cab67616d0000b27336434b378d756fa41884dc80ab67616d0000b27340adc9025a3e5c26053fc732ab67616d0000b273c11062d14bee6968fa86008c",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2732caeb5f60fe6ce8e24ba1f3cab67616d0000b27336434b378d756fa41884dc80ab67616d0000b27340adc9025a3e5c26053fc732ab67616d0000b273c11062d14bee6968fa86008c",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2732caeb5f60fe6ce8e24ba1f3cab67616d0000b27336434b378d756fa41884dc80ab67616d0000b27340adc9025a3e5c26053fc732ab67616d0000b273c11062d14bee6968fa86008c",
+                "width": 60
+            }
+        ],
+        "name": "CSD - WCS - 190313",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NTIsNjViNGMyYTc4ODBhODZlMWMxYjE4MWJiYmYwYjY5Zjk5ODIzNDIyYg==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7f0DYPP8n7nEMLcPUQ9ytX/tracks",
+            "total": 51
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7f0DYPP8n7nEMLcPUQ9ytX"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6GFB7UvM2Ag1hlwR54SKUv"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6GFB7UvM2Ag1hlwR54SKUv",
+        "id": "6GFB7UvM2Ag1hlwR54SKUv",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2731b4708e7b551c73f1b93ddcbab67616d0000b27380f16b17e7a93625e7200ca5ab67616d0000b27381d2c2340831e8fdf37aea0cab67616d0000b273b050cb7204a635068a051913",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2731b4708e7b551c73f1b93ddcbab67616d0000b27380f16b17e7a93625e7200ca5ab67616d0000b27381d2c2340831e8fdf37aea0cab67616d0000b273b050cb7204a635068a051913",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2731b4708e7b551c73f1b93ddcbab67616d0000b27380f16b17e7a93625e7200ca5ab67616d0000b27381d2c2340831e8fdf37aea0cab67616d0000b273b050cb7204a635068a051913",
+                "width": 60
+            }
+        ],
+        "name": "CSD - Social - 190313",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTM1LGZkZjU3OTk5OTk0YjM2YjVmNDgxOTI1ZmU4Njc1MjhhYWRmNzZkZjA=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6GFB7UvM2Ag1hlwR54SKUv/tracks",
+            "total": 51
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6GFB7UvM2Ag1hlwR54SKUv"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3C060NOktgmZsGP8EPKf6j"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3C060NOktgmZsGP8EPKf6j",
+        "id": "3C060NOktgmZsGP8EPKf6j",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/5131deb92addcb584f81b20b0b0baa454f8856a0ab67616d0000b2733aab37beee0e9198e3c324e7ab67616d0000b2735bdd9e580fdda5e676a25e6aab67616d0000b273d8a33d49483b69ac9dad3170",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/5131deb92addcb584f81b20b0b0baa454f8856a0ab67616d0000b2733aab37beee0e9198e3c324e7ab67616d0000b2735bdd9e580fdda5e676a25e6aab67616d0000b273d8a33d49483b69ac9dad3170",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/5131deb92addcb584f81b20b0b0baa454f8856a0ab67616d0000b2733aab37beee0e9198e3c324e7ab67616d0000b2735bdd9e580fdda5e676a25e6aab67616d0000b273d8a33d49483b69ac9dad3170",
+                "width": 60
+            }
+        ],
+        "name": "CSD - Social - 190320",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NTMsYjdhZDAwMTcwYWM1MGFkMTZkNTI1YTYyZTY4M2UzMGE2OTAyNDdhNw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3C060NOktgmZsGP8EPKf6j/tracks",
+            "total": 40
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3C060NOktgmZsGP8EPKf6j"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7cpEFnPe61euk7gH7ugMU3"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7cpEFnPe61euk7gH7ugMU3",
+        "id": "7cpEFnPe61euk7gH7ugMU3",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273b73283373bf715a7e8adb87aab67616d0000b273de03bfc2991fd5bcfde65ba3ab67616d0000b273f9754fdc567ef1fd3124b327ab67616d0000b273ff5429125128b43572dbdccd",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273b73283373bf715a7e8adb87aab67616d0000b273de03bfc2991fd5bcfde65ba3ab67616d0000b273f9754fdc567ef1fd3124b327ab67616d0000b273ff5429125128b43572dbdccd",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273b73283373bf715a7e8adb87aab67616d0000b273de03bfc2991fd5bcfde65ba3ab67616d0000b273f9754fdc567ef1fd3124b327ab67616d0000b273ff5429125128b43572dbdccd",
+                "width": 60
+            }
+        ],
+        "name": "CSD - WCS Lesson - 190320",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MzAsYWFkMWI4Y2M4MDlkYzQ4N2Q4NzMzNWQ2MzlmOWRhOWRiZWRhODFmNA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7cpEFnPe61euk7gH7ugMU3/tracks",
+            "total": 22
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7cpEFnPe61euk7gH7ugMU3"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0vBaVhlxkUHSZSMZ8pnWRZ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0vBaVhlxkUHSZSMZ8pnWRZ",
+        "id": "0vBaVhlxkUHSZSMZ8pnWRZ",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/55fadf1722a193e3ccf3396a42522a69b7ee39a2ab67616d0000b27340adc9025a3e5c26053fc732ab67616d0000b27380f16b17e7a93625e7200ca5ab67616d0000b273f9754fdc567ef1fd3124b327",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/55fadf1722a193e3ccf3396a42522a69b7ee39a2ab67616d0000b27340adc9025a3e5c26053fc732ab67616d0000b27380f16b17e7a93625e7200ca5ab67616d0000b273f9754fdc567ef1fd3124b327",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/55fadf1722a193e3ccf3396a42522a69b7ee39a2ab67616d0000b27340adc9025a3e5c26053fc732ab67616d0000b27380f16b17e7a93625e7200ca5ab67616d0000b273f9754fdc567ef1fd3124b327",
+                "width": 60
+            }
+        ],
+        "name": "CSD - WCS Lesson - 190313",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjcsZGE5ZTAyZmFiYWYzMDk3MDU0YzljNDE3YWRlYmQ3Yjg0YzZlNDA2MQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0vBaVhlxkUHSZSMZ8pnWRZ/tracks",
+            "total": 16
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0vBaVhlxkUHSZSMZ8pnWRZ"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0LY99x5m7ag8UiPeEhPT9i"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0LY99x5m7ag8UiPeEhPT9i",
+        "id": "0LY99x5m7ag8UiPeEhPT9i",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27360c16f6fedb162b5e907e674ab67616d0000b273a5412d9e7c982c58d8123d7dab67616d0000b273aea5f17bbea18d74b711f169ab67616d0000b273fae101e7bfd06f9bc8a9e791",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27360c16f6fedb162b5e907e674ab67616d0000b273a5412d9e7c982c58d8123d7dab67616d0000b273aea5f17bbea18d74b711f169ab67616d0000b273fae101e7bfd06f9bc8a9e791",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27360c16f6fedb162b5e907e674ab67616d0000b273a5412d9e7c982c58d8123d7dab67616d0000b273aea5f17bbea18d74b711f169ab67616d0000b273fae101e7bfd06f9bc8a9e791",
+                "width": 60
+            }
+        ],
+        "name": "Centre_Social_Dance",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTA4LDFmZWJjNDYzZTc4MGY2ZjMwMDJlY2ViZWZjMmVjMDI2NzQ4MTI0MjU=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0LY99x5m7ag8UiPeEhPT9i/tracks",
+            "total": 52
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0LY99x5m7ag8UiPeEhPT9i"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6idLOvnHZZAioB9Q8yIXCE"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6idLOvnHZZAioB9Q8yIXCE",
+        "id": "6idLOvnHZZAioB9Q8yIXCE",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27364efcbdee552ab9a141f9fcdab67616d0000b273b31c41520cffc67eb2ada827ab67616d0000b273bef621178f6410ee55eedab8ab67616d0000b273e8da1f35d1597f8739a24d46",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27364efcbdee552ab9a141f9fcdab67616d0000b273b31c41520cffc67eb2ada827ab67616d0000b273bef621178f6410ee55eedab8ab67616d0000b273e8da1f35d1597f8739a24d46",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27364efcbdee552ab9a141f9fcdab67616d0000b273b31c41520cffc67eb2ada827ab67616d0000b273bef621178f6410ee55eedab8ab67616d0000b273e8da1f35d1597f8739a24d46",
+                "width": 60
+            }
+        ],
+        "name": "Centr Social Dance v2",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NTUsNGQzNTZhYzU5MDI1MTExNjMxZDEyNzIxZWFmMTM2ZmE3OWVlNTE1ZQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6idLOvnHZZAioB9Q8yIXCE/tracks",
+            "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6idLOvnHZZAioB9Q8yIXCE"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6ZgpKPqCOAL1PmrSKDlZgd"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6ZgpKPqCOAL1PmrSKDlZgd",
+        "id": "6ZgpKPqCOAL1PmrSKDlZgd",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/8cafd9c260cb83a91c0d56d807aaef8bd99496caab67616d0000b27357c24b75a6642120d7f3f558ab67616d0000b273897f73256b9128a9d70eaf66ab67616d0000b273d8a33d49483b69ac9dad3170",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/8cafd9c260cb83a91c0d56d807aaef8bd99496caab67616d0000b27357c24b75a6642120d7f3f558ab67616d0000b273897f73256b9128a9d70eaf66ab67616d0000b273d8a33d49483b69ac9dad3170",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/8cafd9c260cb83a91c0d56d807aaef8bd99496caab67616d0000b27357c24b75a6642120d7f3f558ab67616d0000b273897f73256b9128a9d70eaf66ab67616d0000b273d8a33d49483b69ac9dad3170",
+                "width": 60
+            }
+        ],
+        "name": "Centre Social Dance V3",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NjQsYjY5YmM5NjFiNGI1ZTNiNzk1MDViMTRlZDRjZTU0MmViMDYzZGVjOA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6ZgpKPqCOAL1PmrSKDlZgd/tracks",
+            "total": 33
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6ZgpKPqCOAL1PmrSKDlZgd"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/13YgULTsH1Tf6QmIg7gyPd"
+        },
+        "href": "https://api.spotify.com/v1/playlists/13YgULTsH1Tf6QmIg7gyPd",
+        "id": "13YgULTsH1Tf6QmIg7gyPd",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273c4332b4c3b4363d9a6a3b8bfab67616d0000b273d955af4da903e743e5cfdc23ab67616d0000b273ea40a3b851f99a1b76219a71ab67616d0000b273fee671b6e54065a0e1215401",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273c4332b4c3b4363d9a6a3b8bfab67616d0000b273d955af4da903e743e5cfdc23ab67616d0000b273ea40a3b851f99a1b76219a71ab67616d0000b273fee671b6e54065a0e1215401",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273c4332b4c3b4363d9a6a3b8bfab67616d0000b273d955af4da903e743e5cfdc23ab67616d0000b273ea40a3b851f99a1b76219a71ab67616d0000b273fee671b6e54065a0e1215401",
+                "width": 60
+            }
+        ],
+        "name": "CSD 9/12/18",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTM1LDUzYjgyNDNjNzBkNjk2MzQ3M2Y3NjI5YTBhZDYwYjIyZWU5ZGIyZTQ=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/13YgULTsH1Tf6QmIg7gyPd/tracks",
+            "total": 35
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:13YgULTsH1Tf6QmIg7gyPd"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5ZnwgAuni15qAGgShd0uY9"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5ZnwgAuni15qAGgShd0uY9",
+        "id": "5ZnwgAuni15qAGgShd0uY9",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2732caeb5f60fe6ce8e24ba1f3cab67616d0000b273509bd1718b4a4b298b77bf7fab67616d0000b2735841826af2cfbca5e80da27fab67616d0000b2737b3bff5681633c474d6e46ea",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2732caeb5f60fe6ce8e24ba1f3cab67616d0000b273509bd1718b4a4b298b77bf7fab67616d0000b2735841826af2cfbca5e80da27fab67616d0000b2737b3bff5681633c474d6e46ea",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2732caeb5f60fe6ce8e24ba1f3cab67616d0000b273509bd1718b4a4b298b77bf7fab67616d0000b2735841826af2cfbca5e80da27fab67616d0000b2737b3bff5681633c474d6e46ea",
+                "width": 60
+            }
+        ],
+        "name": "CSD Switch It Up Set 20190216",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTMxLDk2MjY5NDc4OTc3MjJmZDhkZDRjYWJiMzZkNWMzMWYzYTc0OWUyY2Q=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5ZnwgAuni15qAGgShd0uY9/tracks",
+            "total": 27
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5ZnwgAuni15qAGgShd0uY9"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4xcr3zdHkMt6TfKgYM3Ap8"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4xcr3zdHkMt6TfKgYM3Ap8",
+        "id": "4xcr3zdHkMt6TfKgYM3Ap8",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27332ca9d1b933d95925e170c90ab67616d0000b27386828295c7a46d01397576e7ab67616d0000b273d75168aad7ace5b2ed4686f6d5110853926bec176d0f06eca3bfe379c4e85edd",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27332ca9d1b933d95925e170c90ab67616d0000b27386828295c7a46d01397576e7ab67616d0000b273d75168aad7ace5b2ed4686f6d5110853926bec176d0f06eca3bfe379c4e85edd",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27332ca9d1b933d95925e170c90ab67616d0000b27386828295c7a46d01397576e7ab67616d0000b273d75168aad7ace5b2ed4686f6d5110853926bec176d0f06eca3bfe379c4e85edd",
+                "width": 60
+            }
+        ],
+        "name": "CSD 4",
+        "owner": {
+            "display_name": "tmntminuskatana",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/tmntminuskatana"
+            },
+            "href": "https://api.spotify.com/v1/users/tmntminuskatana",
+            "id": "tmntminuskatana",
+            "type": "user",
+            "uri": "spotify:user:tmntminuskatana"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NTksNTUzNzkzYzM1NDZiOWMyOWU3MDIxNWFjNTk1MTllNzM2ZGYwNzA5Mg==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4xcr3zdHkMt6TfKgYM3Ap8/tracks",
+            "total": 22
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4xcr3zdHkMt6TfKgYM3Ap8"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7kxDWnEo6UVRcQ2OkBOGwS"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7kxDWnEo6UVRcQ2OkBOGwS",
+        "id": "7kxDWnEo6UVRcQ2OkBOGwS",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/7fd2b9230db9015acd4bcdb9c980b81f678bedc292821b4f037e642cd4999a1bc3aafb0abe3f3b1cab67616d0000b273265a41472c9710afe9105eebab67616d0000b27362edffdb4d8b52cf89f39db6",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/7fd2b9230db9015acd4bcdb9c980b81f678bedc292821b4f037e642cd4999a1bc3aafb0abe3f3b1cab67616d0000b273265a41472c9710afe9105eebab67616d0000b27362edffdb4d8b52cf89f39db6",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/7fd2b9230db9015acd4bcdb9c980b81f678bedc292821b4f037e642cd4999a1bc3aafb0abe3f3b1cab67616d0000b273265a41472c9710afe9105eebab67616d0000b27362edffdb4d8b52cf89f39db6",
+                "width": 60
+            }
+        ],
+        "name": "CSD 20181114",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTM0LDljYjIxNTg1NTkxYTE4NDM3MDI3ZDdhYzMyOWY3NTVkNDVmOGI4ZWY=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7kxDWnEo6UVRcQ2OkBOGwS/tracks",
+            "total": 23
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7kxDWnEo6UVRcQ2OkBOGwS"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2AzUByLjfetvPpWDTP7E0n"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2AzUByLjfetvPpWDTP7E0n",
+        "id": "2AzUByLjfetvPpWDTP7E0n",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/52692dcea12239ca4dfdb531cb66e70ddd097498ab67616d0000b27315501a4f78547d542033f28eab67616d0000b273b8711432994503cf69c2dde5ab67616d0000b273fdf3c077c8e2d66d2f425b56",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/52692dcea12239ca4dfdb531cb66e70ddd097498ab67616d0000b27315501a4f78547d542033f28eab67616d0000b273b8711432994503cf69c2dde5ab67616d0000b273fdf3c077c8e2d66d2f425b56",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/52692dcea12239ca4dfdb531cb66e70ddd097498ab67616d0000b27315501a4f78547d542033f28eab67616d0000b273b8711432994503cf69c2dde5ab67616d0000b273fdf3c077c8e2d66d2f425b56",
+                "width": 60
+            }
+        ],
+        "name": "CSD 20181024",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ODQsNTQ2ZTVhMzYwZWFlM2FhNTY3ODg5YjFiZjFiMjdjZDFlM2NlMGI4OA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2AzUByLjfetvPpWDTP7E0n/tracks",
+            "total": 22
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2AzUByLjfetvPpWDTP7E0n"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6DLRNveLEaRkOMuuualM9p"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6DLRNveLEaRkOMuuualM9p",
+        "id": "6DLRNveLEaRkOMuuualM9p",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/a92fb661492174597bc8f3b8d13d4d252787b173ab67616d0000b27323a63417b4697694202c636aab67616d0000b27346007ceff2f1c33c9b9ec19cab67616d0000b273e62df59707e96ae30668a28a",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/a92fb661492174597bc8f3b8d13d4d252787b173ab67616d0000b27323a63417b4697694202c636aab67616d0000b27346007ceff2f1c33c9b9ec19cab67616d0000b273e62df59707e96ae30668a28a",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/a92fb661492174597bc8f3b8d13d4d252787b173ab67616d0000b27323a63417b4697694202c636aab67616d0000b27346007ceff2f1c33c9b9ec19cab67616d0000b273e62df59707e96ae30668a28a",
+                "width": 60
+            }
+        ],
+        "name": "CSD 20181128",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTQ5LDIwYThiNDA5OTZjMDVhMWVkYmMyN2EyODYyZmY0NDQ4MmU1NDU1ZTQ=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6DLRNveLEaRkOMuuualM9p/tracks",
+            "total": 31
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6DLRNveLEaRkOMuuualM9p"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7wu5JGnK7VH11cIW0YF98c"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7wu5JGnK7VH11cIW0YF98c",
+        "id": "7wu5JGnK7VH11cIW0YF98c",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273018465f67a3a59f032bc871fab67616d0000b273858b5f8dd69ca4cb1e352837ab67616d0000b2739ac61b549ad39e5af30e340eab67616d0000b273a85b7f4cb31e2b091f428f3f",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273018465f67a3a59f032bc871fab67616d0000b273858b5f8dd69ca4cb1e352837ab67616d0000b2739ac61b549ad39e5af30e340eab67616d0000b273a85b7f4cb31e2b091f428f3f",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273018465f67a3a59f032bc871fab67616d0000b273858b5f8dd69ca4cb1e352837ab67616d0000b2739ac61b549ad39e5af30e340eab67616d0000b273a85b7f4cb31e2b091f428f3f",
+                "width": 60
+            }
+        ],
+        "name": "WCS - intro ",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjEsN2I5NzNiZGMzMGVkYmQzOWY5YmQ5YzQ3ZDYxYzhiOTViYjA5MjgwOA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7wu5JGnK7VH11cIW0YF98c/tracks",
+            "total": 20
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7wu5JGnK7VH11cIW0YF98c"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/295GjzhKbv468oxYBwFFK9"
+        },
+        "href": "https://api.spotify.com/v1/playlists/295GjzhKbv468oxYBwFFK9",
+        "id": "295GjzhKbv468oxYBwFFK9",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273adce49f941562362affd4c9dab67616d0000b273cff490233fecd711fa39eacaab67616d0000b273eeed72c68952f844f187e8f6ab67616d0000b273f431905f3b6501316f21cbb1",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273adce49f941562362affd4c9dab67616d0000b273cff490233fecd711fa39eacaab67616d0000b273eeed72c68952f844f187e8f6ab67616d0000b273f431905f3b6501316f21cbb1",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273adce49f941562362affd4c9dab67616d0000b273cff490233fecd711fa39eacaab67616d0000b273eeed72c68952f844f187e8f6ab67616d0000b273f431905f3b6501316f21cbb1",
+                "width": 60
+            }
+        ],
+        "name": "FD20181210",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTEsYjMyZWU2N2U2OTM2ODVmYzgyYWE4Zjg1OTZiYWEwNmZiOGY2YzdlMg==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/295GjzhKbv468oxYBwFFK9/tracks",
+            "total": 10
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:295GjzhKbv468oxYBwFFK9"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/58Kt0q6tqRctE8xwyCxJ1I"
+        },
+        "href": "https://api.spotify.com/v1/playlists/58Kt0q6tqRctE8xwyCxJ1I",
+        "id": "58Kt0q6tqRctE8xwyCxJ1I",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27334b1b0754e885c76ebefd1d4ab67616d0000b273bb71e7f0768b0b71d93adb8eab67616d0000b273c3ea92dcb9390064df6bcdf8ab67616d0000b273f6f617b216083701b6cb952c",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27334b1b0754e885c76ebefd1d4ab67616d0000b273bb71e7f0768b0b71d93adb8eab67616d0000b273c3ea92dcb9390064df6bcdf8ab67616d0000b273f6f617b216083701b6cb952c",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27334b1b0754e885c76ebefd1d4ab67616d0000b273bb71e7f0768b0b71d93adb8eab67616d0000b273c3ea92dcb9390064df6bcdf8ab67616d0000b273f6f617b216083701b6cb952c",
+                "width": 60
+            }
+        ],
+        "name": "Waltz Lesson Jess",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTgsMjlhYTUzOTFiODg3ZTMxMjE2MTFmZjQzZTUxOTUxNjgwNjQxOTdhZA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/58Kt0q6tqRctE8xwyCxJ1I/tracks",
+            "total": 17
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:58Kt0q6tqRctE8xwyCxJ1I"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/63hFsdW7g95QcgrhbuOprI"
+        },
+        "href": "https://api.spotify.com/v1/playlists/63hFsdW7g95QcgrhbuOprI",
+        "id": "63hFsdW7g95QcgrhbuOprI",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/52692dcea12239ca4dfdb531cb66e70ddd097498ab67616d0000b27375d1cee13db7e87c4f5956bbab67616d0000b2738000cceedef363300740bd35ab67616d0000b2738cae5034066af45cdfbc4266",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/52692dcea12239ca4dfdb531cb66e70ddd097498ab67616d0000b27375d1cee13db7e87c4f5956bbab67616d0000b2738000cceedef363300740bd35ab67616d0000b2738cae5034066af45cdfbc4266",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/52692dcea12239ca4dfdb531cb66e70ddd097498ab67616d0000b27375d1cee13db7e87c4f5956bbab67616d0000b2738000cceedef363300740bd35ab67616d0000b2738cae5034066af45cdfbc4266",
+                "width": 60
+            }
+        ],
+        "name": "Fierce",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NTAsY2M3MWJhMzU0MjZiZWEzMmUzMWU4ZTMzMTExNGNmMGEyZDZjMTA5ZQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/63hFsdW7g95QcgrhbuOprI/tracks",
+            "total": 20
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:63hFsdW7g95QcgrhbuOprI"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6UdVmMCKFwnz6uTCLzvfEE"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6UdVmMCKFwnz6uTCLzvfEE",
+        "id": "6UdVmMCKFwnz6uTCLzvfEE",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273497fc4d992718a6688e3ef17ab67616d0000b27386828295c7a46d01397576e7ab67616d0000b273d74f4550a6e409bf51652db7ab7e9a2b378673b515b950db93f63938eb10f050",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273497fc4d992718a6688e3ef17ab67616d0000b27386828295c7a46d01397576e7ab67616d0000b273d74f4550a6e409bf51652db7ab7e9a2b378673b515b950db93f63938eb10f050",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273497fc4d992718a6688e3ef17ab67616d0000b27386828295c7a46d01397576e7ab67616d0000b273d74f4550a6e409bf51652db7ab7e9a2b378673b515b950db93f63938eb10f050",
+                "width": 60
+            }
+        ],
+        "name": "Leah_Lesson",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjAsMGQ3MGU5ZjM2YWJkOGQ1NDY2NjdlYzMwZjE5NTExYTc3MjU3MWIwZQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6UdVmMCKFwnz6uTCLzvfEE/tracks",
+            "total": 14
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6UdVmMCKFwnz6uTCLzvfEE"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5DwqJn1TlUUSUoZD3fSM10"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5DwqJn1TlUUSUoZD3fSM10",
+        "id": "5DwqJn1TlUUSUoZD3fSM10",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/9fe175a8cc597ea27cc97aea6bf0a4b7fa0ba69eab67616d0000b27338407526ecab26f59f44f999ab67616d0000b273a5412d9e7c982c58d8123d7dab67616d0000b273fae101e7bfd06f9bc8a9e791",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/9fe175a8cc597ea27cc97aea6bf0a4b7fa0ba69eab67616d0000b27338407526ecab26f59f44f999ab67616d0000b273a5412d9e7c982c58d8123d7dab67616d0000b273fae101e7bfd06f9bc8a9e791",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/9fe175a8cc597ea27cc97aea6bf0a4b7fa0ba69eab67616d0000b27338407526ecab26f59f44f999ab67616d0000b273a5412d9e7c982c58d8123d7dab67616d0000b273fae101e7bfd06f9bc8a9e791",
+                "width": 60
+            }
+        ],
+        "name": "Intro_to_Movement",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NTAsMGI5ZGNjNDhiM2VlOGUyZjQ0MDMxYzBkMzdiYTY4MjRjYjgxNjIwNA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5DwqJn1TlUUSUoZD3fSM10/tracks",
+            "total": 24
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5DwqJn1TlUUSUoZD3fSM10"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3FojdpPct3AIewq6C4UPbA"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3FojdpPct3AIewq6C4UPbA",
+        "id": "3FojdpPct3AIewq6C4UPbA",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/52b93bd79b0e985437ec3eedcaca33ae807d6c99ab67616d0000b2733ba2e5479c18efc79534c558ab67616d0000b273f342e70aacda9d78cfb6ce7aec2d955f3642c29b13167d4461923f71182d6fce",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/52b93bd79b0e985437ec3eedcaca33ae807d6c99ab67616d0000b2733ba2e5479c18efc79534c558ab67616d0000b273f342e70aacda9d78cfb6ce7aec2d955f3642c29b13167d4461923f71182d6fce",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/52b93bd79b0e985437ec3eedcaca33ae807d6c99ab67616d0000b2733ba2e5479c18efc79534c558ab67616d0000b273f342e70aacda9d78cfb6ce7aec2d955f3642c29b13167d4461923f71182d6fce",
+                "width": 60
+            }
+        ],
+        "name": "latin coaching ",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MzUsNzcyOTY3N2Q4ZGUwZDk0MjIyNWFlYzE5NDQ1YTA5NTQ1ZGJmZWVmZA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3FojdpPct3AIewq6C4UPbA/tracks",
+            "total": 33
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3FojdpPct3AIewq6C4UPbA"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0WIbfs2X34NzCWFU93dgwY"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0WIbfs2X34NzCWFU93dgwY",
+        "id": "0WIbfs2X34NzCWFU93dgwY",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273962904f26595aff1a1b2af80ab67616d0000b273aa96eb08553a63212dacee5eab67616d0000b273dac7c4560676efe6ea5e5954f6ea5d037425e7e825fd204aa928bc71c3ac59b7",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273962904f26595aff1a1b2af80ab67616d0000b273aa96eb08553a63212dacee5eab67616d0000b273dac7c4560676efe6ea5e5954f6ea5d037425e7e825fd204aa928bc71c3ac59b7",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273962904f26595aff1a1b2af80ab67616d0000b273aa96eb08553a63212dacee5eab67616d0000b273dac7c4560676efe6ea5e5954f6ea5d037425e7e825fd204aa928bc71c3ac59b7",
+                "width": 60
+            }
+        ],
+        "name": "Brooke and Steven",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTQsN2QzZmJjMzhlMzI2ZDU1MGIyZTgxZjI2M2Y3NjdkOThlNDIwMjczNA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0WIbfs2X34NzCWFU93dgwY/tracks",
+            "total": 11
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0WIbfs2X34NzCWFU93dgwY"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWX9VXBLRgDqu"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWX9VXBLRgDqu",
+        "id": "37i9dQZF1DWX9VXBLRgDqu",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f0000000200674a4053ffd4b2cc4c6444",
+                "width": null
+            }
+        ],
+        "name": "Acoustic Favorites",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTU3MzA5MjIwOSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWX9VXBLRgDqu/tracks",
+            "total": 90
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWX9VXBLRgDqu"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0fSUlJ3d2ceI09C5d12GkZ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0fSUlJ3d2ceI09C5d12GkZ",
+        "id": "0fSUlJ3d2ceI09C5d12GkZ",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/2af62099166bdb72dcff9af66552cd9edf37d7deab67616d0000b2731046c362079e7d0d5f3f35d4ab67616d0000b2733fea13845a1ee5b94311332aab67616d0000b27367b8e2dbb25be5634ecdea9f",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/2af62099166bdb72dcff9af66552cd9edf37d7deab67616d0000b2731046c362079e7d0d5f3f35d4ab67616d0000b2733fea13845a1ee5b94311332aab67616d0000b27367b8e2dbb25be5634ecdea9f",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/2af62099166bdb72dcff9af66552cd9edf37d7deab67616d0000b2731046c362079e7d0d5f3f35d4ab67616d0000b2733fea13845a1ee5b94311332aab67616d0000b27367b8e2dbb25be5634ecdea9f",
+                "width": 60
+            }
+        ],
+        "name": "Hallelujah",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Niw5ZGU2MTUxNWQyN2I3OTJiMjUxZTk3NTJkZmI5ODA2ZGNlZGU4MDEy",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0fSUlJ3d2ceI09C5d12GkZ/tracks",
+            "total": 4
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0fSUlJ3d2ceI09C5d12GkZ"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5w4R5dh4lY71G60lltHUl0"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5w4R5dh4lY71G60lltHUl0",
+        "id": "5w4R5dh4lY71G60lltHUl0",
+        "images": [
+            {
+                "height": null,
+                "url": "https://pl.scdn.co/images/pl/default/5a466db286b3faaa36d74aa9377905fb15873745",
+                "width": null
+            }
+        ],
+        "name": "Elektroswing",
+        "owner": {
+            "display_name": "Spotify Deutschland",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify_germany"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify_germany",
+            "id": "spotify_germany",
+            "type": "user",
+            "uri": "spotify:user:spotify_germany"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTAyLGM2NzY2MTg1MzZmNWIzZmIwMGJhMjc2OWYyYTM2MjhkNmFkN2Y5OGE=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5w4R5dh4lY71G60lltHUl0/tracks",
+            "total": 47
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5w4R5dh4lY71G60lltHUl0"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5VItICXtFUzgoAmqy7QRFL"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5VItICXtFUzgoAmqy7QRFL",
+        "id": "5VItICXtFUzgoAmqy7QRFL",
+        "images": [
+            {
+                "height": null,
+                "url": "https://pl.scdn.co/images/pl/default/edb31e0ff1a27f6adc30ab2f6a490040aa34a9fd",
+                "width": null
+            }
+        ],
+        "name": "Jazz Piano",
+        "owner": {
+            "display_name": "Sam Suechting",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1210415129"
+            },
+            "href": "https://api.spotify.com/v1/users/1210415129",
+            "id": "1210415129",
+            "type": "user",
+            "uri": "spotify:user:1210415129"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTIxMSwzNDg3ZWY0M2UzNTIxMGE3MmRkODRlZWM4MjcyZDIwMjBiODZiZDA3",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5VItICXtFUzgoAmqy7QRFL/tracks",
+            "total": 97
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5VItICXtFUzgoAmqy7QRFL"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/018taq8YNwY1AzjeHn8UKX"
+        },
+        "href": "https://api.spotify.com/v1/playlists/018taq8YNwY1AzjeHn8UKX",
+        "id": "018taq8YNwY1AzjeHn8UKX",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/2af62099166bdb72dcff9af66552cd9edf37d7deab67616d0000b2731d921cbe941d814261625232ab67616d0000b2738923a45156b5cdf7e49f1e96ab67616d0000b273d965d29d7dcf46ade5a8a7e4",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/2af62099166bdb72dcff9af66552cd9edf37d7deab67616d0000b2731d921cbe941d814261625232ab67616d0000b2738923a45156b5cdf7e49f1e96ab67616d0000b273d965d29d7dcf46ade5a8a7e4",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/2af62099166bdb72dcff9af66552cd9edf37d7deab67616d0000b2731d921cbe941d814261625232ab67616d0000b2738923a45156b5cdf7e49f1e96ab67616d0000b273d965d29d7dcf46ade5a8a7e4",
+                "width": 60
+            }
+        ],
+        "name": "Melanie's Rehersal Dinner",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NjgsYTMzNTlkYjBhM2E3NmVhOGI3YzVjMjc4MmEwY2U1NzIxMjc4NzZjYw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/018taq8YNwY1AzjeHn8UKX/tracks",
+            "total": 65
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:018taq8YNwY1AzjeHn8UKX"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6eNLxi4SB0S9FG00HMJdKS"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6eNLxi4SB0S9FG00HMJdKS",
+        "id": "6eNLxi4SB0S9FG00HMJdKS",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273add085e474522c297306c288",
+                "width": 640
+            }
+        ],
+        "name": "Second Rehearsal Dinner",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCwzYjRiY2UyMTE4MDJhNzcxZDFmZDg0MDUyNWQxOGQyMjdhZTE0MjA4",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6eNLxi4SB0S9FG00HMJdKS/tracks",
+            "total": 16
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6eNLxi4SB0S9FG00HMJdKS"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7t073Lq83K3q5woXBHKXFS"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7t073Lq83K3q5woXBHKXFS",
+        "id": "7t073Lq83K3q5woXBHKXFS",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/52692dcea12239ca4dfdb531cb66e70ddd0974988cafd9c260cb83a91c0d56d807aaef8bd99496caab67616d0000b2736bb9bffe29b83b21bfaf97feab67616d0000b273b83d7c965d13c826ada092e0",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/52692dcea12239ca4dfdb531cb66e70ddd0974988cafd9c260cb83a91c0d56d807aaef8bd99496caab67616d0000b2736bb9bffe29b83b21bfaf97feab67616d0000b273b83d7c965d13c826ada092e0",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/52692dcea12239ca4dfdb531cb66e70ddd0974988cafd9c260cb83a91c0d56d807aaef8bd99496caab67616d0000b2736bb9bffe29b83b21bfaf97feab67616d0000b273b83d7c965d13c826ada092e0",
+                "width": 60
+            }
+        ],
+        "name": "MadJam2016",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjMsOGQyNzA0MGY3MTZlZGIyM2M5MjFiOGFkODNkNzVmZmM3YjU5NjEzMA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7t073Lq83K3q5woXBHKXFS/tracks",
+            "total": 98
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7t073Lq83K3q5woXBHKXFS"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3oYyjlg36QnyRYNJvhsWns"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3oYyjlg36QnyRYNJvhsWns",
+        "id": "3oYyjlg36QnyRYNJvhsWns",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/910721e335a880abef9c5ae1ff74f285b6db524fab67616d0000b2731bb21d27effb96a1d0fe8d6dab67616d0000b273246c2e7e08a253084e412930ab67616d0000b27361cf90757dbc20aa9a1ff180",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/910721e335a880abef9c5ae1ff74f285b6db524fab67616d0000b2731bb21d27effb96a1d0fe8d6dab67616d0000b273246c2e7e08a253084e412930ab67616d0000b27361cf90757dbc20aa9a1ff180",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/910721e335a880abef9c5ae1ff74f285b6db524fab67616d0000b2731bb21d27effb96a1d0fe8d6dab67616d0000b273246c2e7e08a253084e412930ab67616d0000b27361cf90757dbc20aa9a1ff180",
+                "width": 60
+            }
+        ],
+        "name": "West Coast",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MzUsZGQyYjlkZTM0Y2I3NGQ3MDk5NWEzNzEyMTFiNzgzNDA0ZDljZWQxZA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3oYyjlg36QnyRYNJvhsWns/tracks",
+            "total": 33
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3oYyjlg36QnyRYNJvhsWns"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6NV0mZpEw73vAX4rNiftsH"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6NV0mZpEw73vAX4rNiftsH",
+        "id": "6NV0mZpEw73vAX4rNiftsH",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27360c16f6fedb162b5e907e674ab67616d0000b273c0ddb38854cde41708d606a1ab67616d0000b273d41d0517668b7d9d59d5e0f7ab67616d0000b273d4f5ae4eb973bc7396d14dbe",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27360c16f6fedb162b5e907e674ab67616d0000b273c0ddb38854cde41708d606a1ab67616d0000b273d41d0517668b7d9d59d5e0f7ab67616d0000b273d4f5ae4eb973bc7396d14dbe",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27360c16f6fedb162b5e907e674ab67616d0000b273c0ddb38854cde41708d606a1ab67616d0000b273d41d0517668b7d9d59d5e0f7ab67616d0000b273d4f5ae4eb973bc7396d14dbe",
+                "width": 60
+            }
+        ],
+        "name": "Robbie's WCS Social",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NzksN2MzYTFhOWI4MGVkNDQ2MjliYjFjMWFlZjRiMmRiYjViYWU4ZGJiZA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6NV0mZpEw73vAX4rNiftsH/tracks",
+            "total": 76
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6NV0mZpEw73vAX4rNiftsH"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3jzUdvQ9mzUZLP08odGSwS"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3jzUdvQ9mzUZLP08odGSwS",
+        "id": "3jzUdvQ9mzUZLP08odGSwS",
+        "images": [
+            {
+                "height": null,
+                "url": "https://pl.scdn.co/images/pl/default/f53fdc66c65a030176a46344703249cd46f70790",
+                "width": null
+            }
+        ],
+        "name": "West Coast Swing (WCS) (Funky, Sweet and Smooth?)",
+        "owner": {
+            "display_name": "Andreas Modin",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/erseminens"
+            },
+            "href": "https://api.spotify.com/v1/users/erseminens",
+            "id": "erseminens",
+            "type": "user",
+            "uri": "spotify:user:erseminens"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MzM0LDVmODY0ZDQzNjMxNTE3ODI5Y2IzMzBjZjJlMzgzMDZkMTk0NDlhNWQ=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3jzUdvQ9mzUZLP08odGSwS/tracks",
+            "total": 351
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3jzUdvQ9mzUZLP08odGSwS"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5dDEQ0VUaZuwHnPTUzYgc8"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5dDEQ0VUaZuwHnPTUzYgc8",
+        "id": "5dDEQ0VUaZuwHnPTUzYgc8",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27309fc9226035b15a6096b5269ab67616d0000b273a5412d9e7c982c58d8123d7dab67616d0000b273c17a02f16d93ecd7273cf10bab67616d0000b273cacb18b08c5d827f1f02b9f5",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27309fc9226035b15a6096b5269ab67616d0000b273a5412d9e7c982c58d8123d7dab67616d0000b273c17a02f16d93ecd7273cf10bab67616d0000b273cacb18b08c5d827f1f02b9f5",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27309fc9226035b15a6096b5269ab67616d0000b273a5412d9e7c982c58d8123d7dab67616d0000b273c17a02f16d93ecd7273cf10bab67616d0000b273cacb18b08c5d827f1f02b9f5",
+                "width": 60
+            }
+        ],
+        "name": "Teaching WCS",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NjMsOTVmMmJkNmI0YWI3ZTBlYjNiNDIzOTMzYmQwNWI5N2I2YzdiNDQ1MA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5dDEQ0VUaZuwHnPTUzYgc8/tracks",
+            "total": 53
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5dDEQ0VUaZuwHnPTUzYgc8"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3SMIJSoFuTTHDz69kl8b8Z"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3SMIJSoFuTTHDz69kl8b8Z",
+        "id": "3SMIJSoFuTTHDz69kl8b8Z",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/1c87b0ac6f0cd837dc399d52bab96134442547eaab67616d0000b273cacb18b08c5d827f1f02b9f5ab67616d0000b273f45a60659ea99b64667867cfab67616d0000b273f6b71311b224e8987e4a048b",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/1c87b0ac6f0cd837dc399d52bab96134442547eaab67616d0000b273cacb18b08c5d827f1f02b9f5ab67616d0000b273f45a60659ea99b64667867cfab67616d0000b273f6b71311b224e8987e4a048b",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/1c87b0ac6f0cd837dc399d52bab96134442547eaab67616d0000b273cacb18b08c5d827f1f02b9f5ab67616d0000b273f45a60659ea99b64667867cfab67616d0000b273f6b71311b224e8987e4a048b",
+                "width": 60
+            }
+        ],
+        "name": "WCS Fall Social",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NDMsOWYxNTA1ZDlkNjRiY2I3NThmYWIxNmNkZTliZjE2NzdmOWZlZDgxNA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3SMIJSoFuTTHDz69kl8b8Z/tracks",
+            "total": 36
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3SMIJSoFuTTHDz69kl8b8Z"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6pwKEXKdL8EF1nKar2j219"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6pwKEXKdL8EF1nKar2j219",
+        "id": "6pwKEXKdL8EF1nKar2j219",
+        "images": [],
+        "name": "Slow Romantic",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MSw4YTM2MTQyZjViNzY3ZGJiMjYyMDUwNGVlM2VkMmJkMWU5ZTNmZjE2",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6pwKEXKdL8EF1nKar2j219/tracks",
+            "total": 0
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6pwKEXKdL8EF1nKar2j219"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4IDG4CtQCrYz3zAhOj5T6z"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4IDG4CtQCrYz3zAhOj5T6z",
+        "id": "4IDG4CtQCrYz3zAhOj5T6z",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/785bcd17a5d1bb4caf795f43c62bffc022502ab4ab67616d0000b273c1e3659212de0f437bbf395eab67616d0000b273f010bf246e94ea6c9452c758ab67616d0000b273f89996e214be1763b2a9e948",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/785bcd17a5d1bb4caf795f43c62bffc022502ab4ab67616d0000b273c1e3659212de0f437bbf395eab67616d0000b273f010bf246e94ea6c9452c758ab67616d0000b273f89996e214be1763b2a9e948",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/785bcd17a5d1bb4caf795f43c62bffc022502ab4ab67616d0000b273c1e3659212de0f437bbf395eab67616d0000b273f010bf246e94ea6c9452c758ab67616d0000b273f89996e214be1763b2a9e948",
+                "width": 60
+            }
+        ],
+        "name": "WCS 90s Class",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NDQsNzNhYWE5MThlMzk4YTRjYTNmOTY4YTZhNjM5MGQxOWNlNWY1NzQ5Nw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4IDG4CtQCrYz3zAhOj5T6z/tracks",
+            "total": 30
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4IDG4CtQCrYz3zAhOj5T6z"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/1N0wFWRxyzh9aXSR0YQhca"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1N0wFWRxyzh9aXSR0YQhca",
+        "id": "1N0wFWRxyzh9aXSR0YQhca",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737947bf3e8af32378de181b41",
+                "width": 640
+            }
+        ],
+        "name": "WCS Holiday Social",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCxmNzg5OGM3OTA5NWYyM2VlOWJjNGI0N2ZiNGUyZmIzYjBkNmViOTcz",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/1N0wFWRxyzh9aXSR0YQhca/tracks",
+            "total": 2
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1N0wFWRxyzh9aXSR0YQhca"
+    },
+    {
+        "collaborative": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/1oe55y5i0RwoemU7j8Xdkf"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1oe55y5i0RwoemU7j8Xdkf",
+        "id": "1oe55y5i0RwoemU7j8Xdkf",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2730cb9e4d49412fce4ae730004ab67616d0000b273a26ba0877fa1fb396d7ebb92ab67616d0000b273abde41ca41d21abbe77bfeaeab67616d0000b273d46ecc9a37cdb9a65dd0aee2",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2730cb9e4d49412fce4ae730004ab67616d0000b273a26ba0877fa1fb396d7ebb92ab67616d0000b273abde41ca41d21abbe77bfeaeab67616d0000b273d46ecc9a37cdb9a65dd0aee2",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2730cb9e4d49412fce4ae730004ab67616d0000b273a26ba0877fa1fb396d7ebb92ab67616d0000b273abde41ca41d21abbe77bfeaeab67616d0000b273d46ecc9a37cdb9a65dd0aee2",
+                "width": 60
+            }
+        ],
+        "name": "WCS Swing/Blues",
+        "owner": {
+            "display_name": "Robbie Fraleigh",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1252495199"
+            },
+            "href": "https://api.spotify.com/v1/users/1252495199",
+            "id": "1252495199",
+            "type": "user",
+            "uri": "spotify:user:1252495199"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTMsOGM2ODZkNTNjNDc3NDM2YjEzOTNhMGRkMjRjYzJlMjJiMDAxZmEwMw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/1oe55y5i0RwoemU7j8Xdkf/tracks",
+            "total": 11
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1oe55y5i0RwoemU7j8Xdkf"
+    }
+]

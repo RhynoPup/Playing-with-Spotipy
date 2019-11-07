@@ -128,7 +128,7 @@ dmypy.json
 credentials/
 
 #data not needed right now
-data/
+# data/
 
 #.vscode settings are not needed
 .vscode/
