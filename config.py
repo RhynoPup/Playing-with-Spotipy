@@ -1,11 +1,27 @@
+import os
+basedir = os.path.abspath(os.path.dirname(__file__))
+
+
+class Config:
+  SECRET_KEY = os.environ.get('SECRET_KEY') or 'hard to guess string'
+    
+  @staticmethod
+  def init_app(app):
+    pass
+
+
+class DevelopmentConfig(Config):
+  DEBUG = True
+
+class TestingConfig(Config):
+  TESTING = True
+
+# class ProductionConfig(Config):
+  #
+
 config = {
-    "development": "soundstyles.config.DevelopmentConfig",
-    "testing": "soundstyles.config.TestingConfig",
-    "default": "soundstyles.config.DevelopmentConfig"
+  'development': DevelopmentConfig,
+  'testing': TestingConfig,
+
+  'default': DevelopmentConfig
 }
-
-
-def configure_app(app):
-    config_name = os.getenv('FLASK_CONFIGURATION', 'default')
-    app.config.from_object(config[config_name]) # object-based default configuration
-    app.config.from_pyfile('config.cfg', silent=True) # instance-folders configuration

@@ -1,9 +1,5 @@
 from flask import Blueprint
 
-
 main = Blueprint('main', __name__)
 
-
-@main.route('/')
-def index():
-    return "Main"
+from . import views, errors
