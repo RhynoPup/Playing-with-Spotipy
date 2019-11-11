@@ -1,0 +1,330 @@
+[
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0jnsk9HBra6NMjO2oANoPY",
+                    "id": "0jnsk9HBra6NMjO2oANoPY",
+                    "name": "Flo Rida",
+                    "type": "artist",
+                    "uri": "spotify:artist:0jnsk9HBra6NMjO2oANoPY"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AR",
+                "AT",
+                "AU",
+                "BE",
+                "BG",
+                "BH",
+                "BO",
+                "BR",
+                "CA",
+                "CH",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DE",
+                "DK",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FR",
+                "GR",
+                "GT",
+                "HK",
+                "HN",
+                "HU",
+                "ID",
+                "IL",
+                "IS",
+                "IT",
+                "JO",
+                "JP",
+                "KW",
+                "LB",
+                "LT",
+                "LU",
+                "LV",
+                "MA",
+                "MC",
+                "MT",
+                "MX",
+                "MY",
+                "NI",
+                "NL",
+                "NO",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "PY",
+                "QA",
+                "RO",
+                "SA",
+                "SE",
+                "SG",
+                "SK",
+                "SV",
+                "TH",
+                "TN",
+                "TR",
+                "TW",
+                "US",
+                "UY",
+                "VN",
+                "ZA"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+            },
+            "href": "https://api.spotify.com/v1/albums/5lkNnHVlnCCCV304t89wOH",
+            "id": "5lkNnHVlnCCCV304t89wOH",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737947bf3e8af32378de181b41",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027947bf3e8af32378de181b41",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517947bf3e8af32378de181b41",
+                    "width": 64
+                }
+            ],
+            "name": "My House",
+            "release_date": "2015-04-07",
+            "release_date_precision": "day",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:5lkNnHVlnCCCV304t89wOH"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+                },
+                "href": "https://api.spotify.com/v1/artists/0jnsk9HBra6NMjO2oANoPY",
+                "id": "0jnsk9HBra6NMjO2oANoPY",
+                "name": "Flo Rida",
+                "type": "artist",
+                "uri": "spotify:artist:0jnsk9HBra6NMjO2oANoPY"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+                },
+                "href": "https://api.spotify.com/v1/artists/0ZrpamOxcZybMHGg1AYtHP",
+                "id": "0ZrpamOxcZybMHGg1AYtHP",
+                "name": "Robin Thicke",
+                "type": "artist",
+                "uri": "spotify:artist:0ZrpamOxcZybMHGg1AYtHP"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp"
+                },
+                "href": "https://api.spotify.com/v1/artists/4tMJliVd96wXoMVNdcOBHp",
+                "id": "4tMJliVd96wXoMVNdcOBHp",
+                "name": "Verdine White",
+                "type": "artist",
+                "uri": "spotify:artist:4tMJliVd96wXoMVNdcOBHp"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BH",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IL",
+            "IS",
+            "IT",
+            "JO",
+            "JP",
+            "KW",
+            "LB",
+            "LT",
+            "LU",
+            "LV",
+            "MA",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "QA",
+            "RO",
+            "SA",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "US",
+            "UY",
+            "VN",
+            "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 224258,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USAT21500395"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2S5LNtRVRPbXk01yRQ14sZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2S5LNtRVRPbXk01yRQ14sZ",
+        "id": "2S5LNtRVRPbXk01yRQ14sZ",
+        "is_local": false,
+        "name": "I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",
+        "popularity": 69,
+        "preview_url": "https://p.scdn.co/mp3-preview/00935a175d4d92d71aba1d257abe2c18438dc22e?cid=0f8c8d5f45cd400f90801f59457c76dc",
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2S5LNtRVRPbXk01yRQ14sZ"
+    },
+    {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6DIS6PRrLS3wbnZsf7vYic",
+                    "id": "6DIS6PRrLS3wbnZsf7vYic",
+                    "name": "WALK THE MOON",
+                    "type": "artist",
+                    "uri": "spotify:artist:6DIS6PRrLS3wbnZsf7vYic"
+                }
+            ],
+            "available_markets": [],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+            },
+            "href": "https://api.spotify.com/v1/albums/3mNoFlD1wsoXfkljfFzExT",
+            "id": "3mNoFlD1wsoXfkljfFzExT",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c036c1fa4089f3ac006c6d1c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c036c1fa4089f3ac006c6d1c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c036c1fa4089f3ac006c6d1c",
+                    "width": 64
+                }
+            ],
+            "name": "TALKING IS HARD",
+            "release_date": "2014-12-02",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:3mNoFlD1wsoXfkljfFzExT"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+                },
+                "href": "https://api.spotify.com/v1/artists/6DIS6PRrLS3wbnZsf7vYic",
+                "id": "6DIS6PRrLS3wbnZsf7vYic",
+                "name": "WALK THE MOON",
+                "type": "artist",
+                "uri": "spotify:artist:6DIS6PRrLS3wbnZsf7vYic"
+            }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 199080,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USRC11401949"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4kbj5MwxO1bq9wjT5g9HaA",
+        "id": "4kbj5MwxO1bq9wjT5g9HaA",
+        "is_local": false,
+        "name": "Shut Up and Dance",
+        "popularity": 45,
+        "preview_url": null,
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4kbj5MwxO1bq9wjT5g9HaA"
+    }
+]

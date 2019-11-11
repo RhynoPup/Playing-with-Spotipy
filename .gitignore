@@ -126,7 +126,3 @@ dmypy.json
 
 #.vscode settings are not needed
 .vscode/
-
-#hiding credentials for now
-read_ryan_playlist.py
-read_user_playlists.py

@@ -47,3 +47,38 @@
     /*min-height:25px;*/
     padding-left:25px;
 }
+#date.app_card .chart{
+    height: 125px;
+    overflow: auto;
+}
+.zmdi {
+    font-size: 18px;
+    padding-left:7px;
+    padding-top:7px;
+
+}
+.zmdi:hover{
+  font-weight:bold;
+}
+
+.search_overlay {
+    min-width:125px;
+    max-width:250px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    position:absolute;
+    top:65px;
+    height:75px;
+    overflow:auto;
+    background:white;
+    visibility:hidden;
+    z-index:999;
+}
+.search_overlay:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.search_overlay i{
+    float:right;
+    height:15px;
+    padding:5px;
+}

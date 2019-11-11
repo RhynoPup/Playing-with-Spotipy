@@ -4,8 +4,10 @@ $(function(){
     var promises = [];
     d3.json(datafile).then(function(contents){
         // console.log(contents)
-        contents.forEach(function(item){
-            promises.push(d3.json(item))
+        contents.forEach(function(item,index){
+            if (index<4){
+                promises.push(d3.json(item))
+            }           
         })
         
         return Promise.all(promises).then(function(data){
@@ -14,7 +16,7 @@ $(function(){
             data.forEach(function(d){
                 list_data.push(d)
             })
-            app_data = [].concat.apply([],list_data.slice(0,4))
+            app_data = [].concat.apply([],list_data)
             console.log('App Data', app_data)
             return app_data
         }).then(function(app_data){
